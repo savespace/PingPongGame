@@ -1,0 +1,27 @@
+{
+  "name": "pingpong",
+  "version": "1.0.0",
+  "description": "pp",
+  "main": "index.js",
+  "scripts": {
+    "test": "pp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/PingPongGame.git"
+  },
+  "keywords": [
+    "ppg"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/PingPongGame/issues"
+  },
+  "homepage": "https://github.com/savespace/PingPongGame#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
